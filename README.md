@@ -23,7 +23,7 @@ NOTE: All of the files are explicitly removed from the repository for the purpos
  
  
 - Snapy:
-  - I was given to convert java based code to Kotlin and merge two different modules of application.
+  - I was given to convert java based code to Kotlin and merge two different standalone application into one.
   - We Iterated over many UI changes due to heavy work on the user experience side.
   - Itegrated all the API calls to make the application work.
   - Designed Settings page, Integrated Profile and payment sections.
