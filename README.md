@@ -1,7 +1,7 @@
 <h1 align="center">Internships Projects</h1>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/63164037/136671196-53735cc7-5266-46c6-8209-4a5f9b53ebb4.jpg" width="350">
+<img src="https://user-images.githubusercontent.com/63164037/136683176-b3ef99a5-4d4c-4a24-b7de-081ef188b074.jpg">
 </p>
 
 ## 🌎 Released Android Application:
